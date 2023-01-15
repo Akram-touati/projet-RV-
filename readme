@@ -1,0 +1,4 @@
+Dans notre application le but est de naviguer  d une manière  illimitée  en virtuel  mais dans un environment réel  restreint, pour cela on a opté  pour:
+Mode géant :ce mode  fait agrandir  l'utilisateur .pour l l'activer il suffit d appuier une fois  le bouton "X"sur la manette  droite d'oculus,et pour  le désactiver  il faut appuier une autre fois sur"X".
+On a également  utilisé  la téléportation pour l activité  il suffit d appuiter sur le "trigger".
+L'utilisateur  peut aussi naviguer  avec les joysticks
