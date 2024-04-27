@@ -11,8 +11,8 @@ méthode n’a pas bien marché. (Vous trouverez le script du mode géant sous l
 « scaling_vr »).
 
 ## Nous avant utilise également deux méthodes d’interaction : 
- - ** Sélection d’un objet avec le rayon laser : **
-      Il faut viser l’objet avec le rayon laser puis cliquer avec le «** HAND TRIGGER ** » de la 
+ - **Sélection d’un objet avec le rayon laser :**
+      Il faut viser l’objet avec le rayon laser puis cliquer avec le «**HAND TRIGGER** » de la 
 manette gauche.
-- Pour l’autre méthode il suffit de s’approcher de l’objet puis appuyer sur « ** HAND 
-TRIGGER ** »de la manette droit
+- Pour l’autre méthode il suffit de s’approcher de l’objet puis appuyer sur « **HAND 
+TRIGGER** »de la manette droit
